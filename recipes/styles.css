@@ -1,0 +1,15 @@
+/*styless.css*/
+div {
+    color: purple;
+    background-color: yellow;
+    font-size: 25px;
+    font-weight: 200;
+}
+
+
+.alert-text {
+    color: red;
+    background-color: black;
+    font-size: 30px
+
+}
